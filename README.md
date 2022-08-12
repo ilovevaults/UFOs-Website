@@ -1,5 +1,5 @@
 # UFOs-Website
-## Overview
+## Goals
 The purpose of this project was to create a website using, CSS, JS, bootstrap and HTML that allows a user to look up UFO sightings all across the US in the year 2010.
 There are currently five search filters and they are date,city,state,country,and the shape of the UFO.
 ### Summary
